@@ -1,6 +1,6 @@
 El problema de interpolación: 
 
-Dados n + 1 puntos (xi; yi) \in R^2; x_i \neq x_j, i, j = 0, 1, ..., n, existe un único polinomio de grado a lo más n tal que:
+Dados n + 1 puntos (xi, yi) \in R^2: x_i \neq x_j, i, j = 0, 1, ..., n, existe un único polinomio de grado a lo más n tal que:
 
 p(x) = c_0x^0 + c_1x^1 + ... + c_nx^n
 
